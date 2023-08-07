@@ -1,10 +1,11 @@
 <script setup lang="ts">
+
 </script>
 
 <template>
-  <NuxtLayout>
-    <NuxtPage/>
-  </NuxtLayout>
+<div>all posts</div>
 </template>
 
+<style scoped>
 
+</style>

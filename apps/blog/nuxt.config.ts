@@ -7,7 +7,10 @@ export default defineNuxtConfig({
       vanillaExtractPlugin({})
     ],
   },
-  ssr: false,
+  modules: [
+    '@nuxt/content'
+  ],
+  // ssr: false,
   devtools: {
     enabled: true
   }

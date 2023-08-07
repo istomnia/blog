@@ -13,5 +13,8 @@
     "@vanilla-extract/css": "^1.12.0",
     "@vanilla-extract/vite-plugin": "^3.8.2",
     "nuxt": "^3.6.5"
+  },
+  "dependencies": {
+    "@nuxt/content": "^2.7.2"
   }
 }
